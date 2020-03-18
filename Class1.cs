@@ -4,5 +4,6 @@ namespace ParentProject
 {
     public class Class1
     {
+        hello
+            ""
     }
-}
