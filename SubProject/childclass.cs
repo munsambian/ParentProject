@@ -2,7 +2,7 @@
 
 namespace SubProject
 {
-    public class Class1
+    public class childclass
     {
     }
 }
